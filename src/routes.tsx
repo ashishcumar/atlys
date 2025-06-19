@@ -8,6 +8,7 @@ import SignUp from "./pages/SignUp";
 const AppRoutes: React.FC = () => {
   return (
     <Routes>
+      <Route path="/" element={<Home />} />
       <Route path="/home" element={<Home />} />
       <Route path="/signin" element={<SignIn />} />
       <Route path="/signup" element={<SignUp />} />
