@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import Card, { type ICard } from "../Components/Card";
 import { cardsArr } from "../helpers/statics";
 import TextEditor from "../Components/TextEditor";

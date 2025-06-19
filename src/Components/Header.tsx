@@ -1,4 +1,3 @@
-import React from "react";
 import mouse from "../assets/mouse.svg";
 import signin from "../assets/signin.svg";
 import { cssVariables } from "../helpers/cssVariables";
